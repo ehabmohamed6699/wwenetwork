@@ -1,0 +1,10 @@
+.pagination-btns{
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.no-round{
+  border-radius: 15px !important;
+}

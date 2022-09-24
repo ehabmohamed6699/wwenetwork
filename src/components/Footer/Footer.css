@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.footer{
+    background-color: #111;
+}
+
+.font-1{
+    font-size: 1.4em;
+
+}
+
+.group a{
+    color: #ccc;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1em;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 5px;
+}
+.group a:hover{
+    color: #aaa;
+}
